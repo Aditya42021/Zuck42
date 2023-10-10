@@ -1,2 +1,4 @@
 # Share Postingan Facebook
-Zuck424
+
+cd Zuck42
+python Kyomasa.py
